@@ -1,2 +1,5 @@
 # Repo_Tes_Context
-Repositório destinado a treinar React Context.
+<hr/>
+
+
+## Repositório destinado a treinar React Context.
