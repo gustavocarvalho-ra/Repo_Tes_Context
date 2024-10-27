@@ -2,4 +2,4 @@
 <hr/>
 
 
-## Repositório destinado a treinar React Context.
+## Repositório destinado a treinar React Context em NextJs (App).
